@@ -4,6 +4,8 @@ public class Main {
         switch(opcion){
             case 1:
                 Ejercicio_1.ejercicio_1();
+            case 2:
+                Ejercicio_2.ejercicio_2();
         }
     }
 }
