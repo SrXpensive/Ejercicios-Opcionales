@@ -4,10 +4,13 @@ public class Main {
         switch(opcion){
             case 1:
                 Ejercicio_1.ejercicio_1();
+                break;
             case 2:
                 Ejercicio_2.ejercicio_2();
+                break;
             case 3:
                 Ejercicio_3.ejercicio_3();
+                break;
         }
     }
 }
